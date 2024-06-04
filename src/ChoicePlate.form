@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="ChoicePlate">
+  <grid id="27dc6" binding="panel" layout-manager="GridBagLayout">
+    <constraints>
+      <xy x="20" y="20" width="899" height="572"/>
+    </constraints>
+    <properties>
+      <background color="-2104859"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="7dae6" binding="p" layout-manager="GridLayoutManager" row-count="11" column-count="5" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="1.0" weighty="1.0"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <grid id="b201d" binding="p1" layout-manager="GridBagLayout">
+            <constraints>
+              <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="5874d" class="javax.swing.JLabel" binding="test">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="1.0"/>
+                </constraints>
+                <properties>
+                  <background color="-5667168"/>
+                  <foreground color="-13947600"/>
+                  <text value="&lt;html&gt; &lt;head&gt;     &lt;meta charset=&quot;UTF-8&quot;&gt;     &lt;title&gt;Restaurant Menu&lt;/title&gt; &lt;/head&gt; &lt;body style=&quot;font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f5f5f5;&quot;&gt;     &lt;div style=&quot;background-color: #673A7E; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); max-width: 400px; margin: 2rem auto; padding: 20px;&quot;&gt;         &lt;h2 style=&quot;color: #08cad1; text-align: center; padding-bottom: 10px; border-bottom: 2px solid #08cad1; margin: 0;&quot;&gt;             Breakfast         &lt;/h2&gt;         &lt;ul style=&quot;list-style-type: none; padding: 0; margin: 0;&quot;&gt;             &lt;li style=&quot;color: #ffffff; padding: 10px 0; border-bottom: 1px solid #ffffff; transition: background-color 0.3s;&quot;                 onmouseover=&quot;this.style.backgroundColor='#8a5a99';&quot;                 onmouseout=&quot;this.style.backgroundColor='';&quot;&gt;                 Coffee: &lt;b style=&quot;color: #08cad1;&quot;&gt;$3&lt;/b&gt;             &lt;/li&gt;                     &lt;li style=&quot;color: #ffffff; padding: 10px 0; border-bottom: 1px solid #ffffff; transition: background-color 0.3s;&quot;                 onmouseover=&quot;this.style.backgroundColor='#8a5a99';&quot;                 onmouseout=&quot;this.style.backgroundColor='';&quot;&gt;                 Fresh Cheese: &lt;b style=&quot;color: #08cad1;&quot;&gt;$1&lt;/b&gt;             &lt;/li&gt;             &lt;li style=&quot;color: #ffffff; padding: 10px 0; border-bottom: 1px solid #ffffff; transition: background-color 0.3s;&quot;                 onmouseover=&quot;this.style.backgroundColor='#8a5a99';&quot;                 onmouseout=&quot;this.style.backgroundColor='';&quot;&gt;                 Juice: &lt;b style=&quot;color: #08cad1;&quot;&gt;$1&lt;/b&gt;             &lt;/li&gt;             &lt;li style=&quot;color: #ffffff; padding: 10px 0; border-bottom: 1px solid #ffffff; transition: background-color 0.3s;&quot;                 onmouseover=&quot;this.style.backgroundColor='#8a5a99';&quot;                 onmouseout=&quot;this.style.backgroundColor='';&quot;&gt;                 Eggs: &lt;b style=&quot;color: #08cad1;&quot;&gt;$1&lt;/b&gt;             &lt;/li&gt;         &lt;/ul&gt;  &lt;div style=&quot;padding-top: 10px; text-align: center; color: #08cad1; font-size: 1.2em;&quot;&gt;             &lt;strong&gt;Total: $7&lt;/strong&gt;         &lt;/div&gt;   &lt;/div&gt; &lt;/body&gt; &lt;/html&gt;"/>
+                </properties>
+              </component>
+              <hspacer id="21f31">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="0.0" weighty="0.0"/>
+                </constraints>
+              </hspacer>
+              <vspacer id="443e8">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="0.0" weighty="0.0"/>
+                </constraints>
+              </vspacer>
+              <component id="c41bf" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="0.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <font size="16"/>
+                  <foreground color="-5667168"/>
+                  <text value=" (1)"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="339b6" binding="p2" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="af036" class="javax.swing.JLabel" binding="menu3">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-5667168"/>
+                  <foreground color="-13947600"/>
+                  <text value="&lt;html&gt; &lt;head&gt;     &lt;meta charset=&quot;UTF-8&quot;&gt;     &lt;title&gt;Restaurant Menu - Dinner&lt;/title&gt; &lt;/head&gt; &lt;body style=&quot;font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f5f5f5;&quot;&gt;     &lt;div style=&quot;background-color: #673A7E; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); max-width: 400px; margin: 2rem auto; padding: 20px;&quot;&gt;         &lt;h2 style=&quot;color: #08cad1; text-align: center; padding-bottom: 10px; border-bottom: 2px solid #08cad1; margin: 0;&quot;&gt;             Dinner         &lt;/h2&gt;         &lt;ul style=&quot;list-style-type: none; padding: 0; margin: 0;&quot;&gt;             &lt;li style=&quot;color: #ffffff; padding: 10px 0; border-bottom: 1px solid #ffffff; transition: background-color 0.3s;&quot;                 onmouseover=&quot;this.style.backgroundColor='#8a5a99';&quot;                 onmouseout=&quot;this.style.backgroundColor='';&quot;&gt;                 Spicy Tajine: &lt;b style=&quot;color: #08cad1;&quot;&gt;$9&lt;/b&gt;             &lt;/li&gt;             &lt;li style=&quot;color: #ffffff; padding: 10px 0; border-bottom: 1px solid #ffffff; transition: background-color 0.3s;&quot;                 onmouseover=&quot;this.style.backgroundColor='#8a5a99';&quot;                 onmouseout=&quot;this.style.backgroundColor='';&quot;&gt;                 Juice: &lt;b style=&quot;color: #08cad1;&quot;&gt;$1&lt;/b&gt;             &lt;/li&gt;             &lt;li style=&quot;color: #ffffff; padding: 10px 0; border-bottom: 1px solid #ffffff; transition: background-color 0.3s;&quot;                 onmouseover=&quot;this.style.backgroundColor='#8a5a99';&quot;                 onmouseout=&quot;this.style.backgroundColor='';&quot;&gt;                 Salad: &lt;b style=&quot;color: #08cad1;&quot;&gt;$4&lt;/b&gt;             &lt;/li&gt;             &lt;li style=&quot;color: #ffffff; padding: 10px 0; border-bottom: 1px solid #ffffff; transition: background-color 0.3s;&quot;                 onmouseover=&quot;this.style.backgroundColor='#8a5a99';&quot;                 onmouseout=&quot;this.style.backgroundColor='';&quot;&gt;                 Dessert: &lt;b style=&quot;color: #08cad1;&quot;&gt;$2&lt;/b&gt;             &lt;/li&gt;         &lt;/ul&gt;         &lt;div style=&quot;padding-top: 10px; text-align: center; color: #08cad1; font-size: 1.2em;&quot;&gt;             &lt;strong&gt;Total: $16&lt;/strong&gt;         &lt;/div&gt;     &lt;/div&gt; &lt;/body&gt; &lt;/html&gt;"/>
+                </properties>
+              </component>
+              <component id="324de" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="16"/>
+                  <foreground color="-5667168"/>
+                  <text value="(3)"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="e7b23" binding="p3" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="e49be" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="16"/>
+                  <foreground color="-5667168"/>
+                  <text value="(2)"/>
+                </properties>
+              </component>
+              <component id="bd2da" class="javax.swing.JLabel" binding="menu2">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-5667168"/>
+                  <foreground color="-13947600"/>
+                  <text value="&lt;html&gt; &lt;head&gt;     &lt;meta charset=&quot;UTF-8&quot;&gt;     &lt;title&gt;Restaurant Menu&lt;/title&gt; &lt;/head&gt; &lt;body style=&quot;font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f5f5f5;&quot;&gt;     &lt;div style=&quot;background-color: #673A7E; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); max-width: 400px; margin: 2rem auto; padding: 20px;&quot;&gt;         &lt;h2 style=&quot;color: #08cad1; text-align: center; padding-bottom: 10px; border-bottom: 2px solid #08cad1; margin: 0;&quot;&gt;             Lunch         &lt;/h2&gt;         &lt;ul style=&quot;list-style-type: none; padding: 0; margin: 0;&quot;&gt;             &lt;li style=&quot;color: #ffffff; padding: 10px 0; border-bottom: 1px solid #ffffff; transition: background-color 0.3s;&quot;                 onmouseover=&quot;this.style.backgroundColor='#8a5a99';&quot;                 onmouseout=&quot;this.style.backgroundColor='';&quot;&gt;                 Chicken Bastilla: &lt;b style=&quot;color: #08cad1;&quot;&gt;$7&lt;/b&gt;             &lt;/li&gt;             &lt;li style=&quot;color: #ffffff; padding: 10px 0; border-bottom: 1px solid #ffffff; transition: background-color 0.3s;&quot;                 onmouseover=&quot;this.style.backgroundColor='#8a5a99';&quot;                 onmouseout=&quot;this.style.backgroundColor='';&quot;&gt;                 Juice: &lt;b style=&quot;color: #08cad1;&quot;&gt;$1&lt;/b&gt;             &lt;/li&gt;             &lt;li style=&quot;color: #ffffff; padding: 10px 0; border-bottom: 1px solid #ffffff; transition: background-color 0.3s;&quot;                 onmouseover=&quot;this.style.backgroundColor='#8a5a99';&quot;                 onmouseout=&quot;this.style.backgroundColor='';&quot;&gt;                 Salade: &lt;b style=&quot;color: #08cad1;&quot;&gt;$4&lt;/b&gt;             &lt;/li&gt;             &lt;li style=&quot;color: #ffffff; padding: 10px 0; border-bottom: 1px solid #ffffff; transition: background-color 0.3s;&quot;                 onmouseover=&quot;this.style.backgroundColor='#8a5a99';&quot;                 onmouseout=&quot;this.style.backgroundColor='';&quot;&gt;                 Dessert: &lt;b style=&quot;color: #08cad1;&quot;&gt;$2&lt;/b&gt;             &lt;/li&gt;         &lt;/ul&gt;         &lt;div style=&quot;padding-top: 10px; text-align: center; color: #08cad1; font-size: 1.2em;&quot;&gt;             &lt;strong&gt;Total: $14&lt;/strong&gt;         &lt;/div&gt;     &lt;/div&gt; &lt;/body&gt; &lt;/html&gt;"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <hspacer id="25f98">
+            <constraints>
+              <grid row="2" column="4" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </hspacer>
+          <hspacer id="13fb1">
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </hspacer>
+          <vspacer id="d957c">
+            <constraints>
+              <grid row="4" column="4" row-span="6" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </vspacer>
+          <grid id="7d9ee" binding="p4" layout-manager="GridLayoutManager" row-count="5" column-count="5" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="4" column="2" row-span="6" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="9909b" class="javax.swing.JLabel" binding="label1">
+                <constraints>
+                  <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Type your Choice"/>
+                </properties>
+              </component>
+              <component id="47e44" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+                <constraints>
+                  <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties/>
+              </component>
+              <component id="27d2e" class="javax.swing.JButton" binding="Submit">
+                <constraints>
+                  <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Pay"/>
+                </properties>
+              </component>
+              <vspacer id="36a9a">
+                <constraints>
+                  <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="6c5c5">
+                <constraints>
+                  <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="52c9a">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <vspacer id="9cb1d">
+                <constraints>
+                  <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <hspacer id="edbdc">
+                <constraints>
+                  <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <hspacer id="e6e27">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+            </children>
+          </grid>
+          <vspacer id="326ca">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </vspacer>
+          <component id="5cf9c" class="javax.swing.JButton" binding="logOutButton" default-binding="true">
+            <constraints>
+              <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <text value="LogOut"/>
+            </properties>
+          </component>
+          <vspacer id="68c8">
+            <constraints>
+              <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </vspacer>
+          <component id="9cac7" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font size="16" style="2"/>
+              <foreground color="-5667168"/>
+              <text value="Our Disponible Menus for today"/>
+            </properties>
+          </component>
+          <vspacer id="9d48d">
+            <constraints>
+              <grid row="10" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+            </constraints>
+          </vspacer>
+          <component id="89a0" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="4" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font size="16" style="1"/>
+              <foreground color="-5667168"/>
+              <text value="how much?"/>
+            </properties>
+          </component>
+          <component id="754db" class="javax.swing.JComboBox" binding="comboBox1" default-binding="true">
+            <constraints>
+              <grid row="5" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
