@@ -21,15 +21,15 @@
 to ensure a consistent user experience when purchasing dishes, managing user accounts and payment processing
 <p align="center">
 
-<img src="https://github.com/hayatvyhr/vitaRes-/assets/122895256/c3f53a4a-2df7-4ae0-95e8-e1f947cf5739)
-<img src="https://github.com/hayatvyhr/vitaRes-/assets/122895256/95a3702d-2085-4c99-8bb7-a9fde3f1788a)
+<img src="https://github.com/hayatvyhr/vitaRes-/assets/122895256/c3f53a4a-2df7-4ae0-95e8-e1f947cf5739) />
+<img src="https://github.com/hayatvyhr/vitaRes-/assets/122895256/95a3702d-2085-4c99-8bb7-a9fde3f1788a) />
 </p>
 
 ### using of strategy :
 facilitates flexibility in selecting payment methods
 <p align="center">
   <img src="https://github.com/hayatvyhr/vitaRes-/assets/122895256/46ea6370-f6a5-4184-bb12-c38573ed2794" width="400" height = "350" />
-  <img src="https://github.com/hayatvyhr/vitaRes-/assets/122895256/14f72bc9-da33-4510-b56e-6e17fed2bf6a" width="400"/>
+  <img src="https://github.com/hayatvyhr/vitaRes-/assets/122895256/14f72bc9-da33-4510-b56e-6e17fed2bf6a" width="300"/>
 </p>
 ## Pattern Mediator
 the Mediator model facilitates communication between the different components of the application, such as the food menu, and
