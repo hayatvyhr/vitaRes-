@@ -28,7 +28,7 @@ to ensure a consistent user experience when purchasing dishes, managing user acc
 ### using of strategy :
 facilitates flexibility in selecting payment methods
 <p align="center">
-  <img src="https://github.com/hayatvyhr/vitaRes-/assets/122895256/46ea6370-f6a5-4184-bb12-c38573ed2794" width="400" height = "350" />
+  <img src="https://github.com/hayatvyhr/vitaRes-/assets/122895256/46ea6370-f6a5-4184-bb12-c38573ed2794" width="400" />
   <img src="https://github.com/hayatvyhr/vitaRes-/assets/122895256/14f72bc9-da33-4510-b56e-6e17fed2bf6a" width="300"/>
 </p>
 ## Pattern Mediator
